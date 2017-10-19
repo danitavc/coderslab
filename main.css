@@ -1,0 +1,25 @@
+.adele, .cara, .gina, .kate, .lucy, .mila{
+	float: left;
+	margin:5px;
+	position: relative;
+	
+}
+#clear{
+	clear: both;
+}
+img{
+	width: 250px;
+	height: 250px;
+}
+
+h1 {
+	font-family: 'Special Elite', cursive;
+}
+
+.nombre {
+	position: absolute;
+	right: 10px;
+	bottom: 0px;
+	font-family: 'Special Elite', cursive;
+	color: white;
+}
